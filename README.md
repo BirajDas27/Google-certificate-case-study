@@ -126,3 +126,4 @@ By leveraging these insights, Cyclistic can design **data-driven marketing strat
 ---
 
 ## 📎 Project Structure
+![](Visuals/file_structure.png)
